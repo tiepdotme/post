@@ -1,3 +1,29 @@
+---
+layout: post
+category: writing
+date: 2020-05-21
+title: Mục tiêu mua được iphone 8
+lede: mất điện thoại vivo vào tay thằng xe ôm sài gòn rồi thì mất cả cái iphone 7 vì đổi cho thằng ku em họ, nên là đặt mục tiêu cao hơn tý để mua lại cho có động lực
+readingTime: 9
+assets:
+  cover: /images/iphone8_1.jpg
+hero:
+  showCover: true
+  titleInvert: true
+  imageBlend: 0.6
+  ratio: 9/16
+tags:
+  - Psm
+  - cá nhân
+---
+**Psm thực hiện cập nhật nội dung mới nhất lúc 21/05/2020**
+
+> Làm lại cuộc đời bằng việc đặt mục tiêu cho bản thân, muốn mua một cái iphone 8, hoặc X để sử dụng cho...sang chảnh. **Psm suy nghĩ**
+
+<Media ratio="844/1500" image="/images/iphone8_1.jpg"/>
+
+## Cấu hình máy iphone lấy được từ GSMArena
+
 | iPhone 8      | Systems       | Information                                                                             |
 |---------------|---------------|-----------------------------------------------------------------------------------------|
 | NETWORK       | Technology    | GSM / HSPA / LTE                                                                        |
@@ -67,3 +93,41 @@
 |               | Loudspeaker   | Voice 71dB / Noise 77dB / Ring 80dB                                                     |
 |               | Audio quality | Noise -93.5dB / Crosstalk -80.4dB                                                       |
 |               | Battery life  | Endurance rating 66h                                                                    |
+
+Psm sẽ ghi chú lại nếu thêm nộPsm sẽ ghi chú lại nếu thêm nội dung được cập nhật và có ghi rõ ràng ngày giờ cập nhật {.Note}
+
+Dữ liệu tài liệu này do Psm^1^ và KdO^2^ hợp tác trong bài viết, hỗ trợ thông tin dành cho người cùng lứa tuổi, hoàn cảnh, cùng các bạn đọc quan tâm tới Psm nội dung.^3^.
+
+---
+
+1. Nội dung được **Psm** chép lại khi trải đời, Kdo là tên viết tắt của Tiếp adsense và **Psm** là tên viết tắt của Psm (Phu sa me) Agency Advertising {.Note}
+
+2. **Psm** là tên gọi Viết tắt của Phù sa mẹ. {.Note}
+
+3. Muốn tìm bạn có cùng hoàn cảnh, lứa tuổi để học hỏi nhau trau dồi cuộc sống {.Note}
+
+<script>
+import Media from "../../src/components/Media";
+
+export default {
+  components: { Media }
+}
+</script>i dung được cập nhật và có ghi rõ ràng ngày giờ cập nhật {.Note}
+
+Dữ liệu tài liệu này do Psm^1^ và KdO^2^ hợp tác trong bài viết, hỗ trợ thông tin dành cho người cùng lứa tuổi, hoàn cảnh, cùng các bạn đọc quan tâm tới Psm nội dung.^3^.
+
+---
+
+1. Nội dung được **Psm** chép lại khi trải đời, Kdo là tên viết tắt của Tiếp adsense và **Psm** là tên viết tắt của Psm (Phu sa me) Agency Advertising {.Note}
+
+2. **Psm** là tên gọi Viết tắt của Phù sa mẹ. {.Note}
+
+3. Muốn tìm bạn có cùng hoàn cảnh, lứa tuổi để học hỏi nhau trau dồi cuộc sống {.Note}
+
+<script>
+import Media from "../../src/components/Media";
+
+export default {
+  components: { Media }
+}
+</script>
