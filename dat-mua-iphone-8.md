@@ -4,15 +4,15 @@ layout: post
 title: Đặt mua iPhone 8 (Like new) từ Psm
 date: 2015-01-10
 lede: Psm bán iphone 8 được chọn lọc kỹ lưỡng đầy đủ, và chất lượng nhất tới tay khách hàng.
-agency: Ward6
+agency: Psm iphone
 link: https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-iPhone-8-64GB-%C4%91%E1%BB%A7-m%C3%A0u-l%E1%BB%B1a-ch%E1%BB%8Dn-i.259737548.5434812260
 assets:
-  cover: /images/ward6-card.jpg
+  cover: /images/iphone-8.jpg
 nextProject: /work/ward6-edetailers
 nextProjectTitle: Pharma eDetailer apps
 tags:
-  - design
-  - frontend
+  - Cần bán
+  - Like new
 ---
 
 With offices in Sydney and Singapore, Ward6 is recognised as Asia Pacific's leading independent health communications agency. I helped transfer this reputation online with a mobile-first website using a JAMstack architecture that was easy to use, very fast and easy to update and maintain.
